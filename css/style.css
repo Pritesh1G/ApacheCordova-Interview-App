@@ -1,0 +1,28 @@
+
+a{
+  color:#000;
+}
+.btn-primary
+{
+  color:#fff;
+}
+.main-padding
+{
+  padding-top: 5%;
+}
+.wrapper {
+min-height:120%;
+height: auto !important;
+height: 120%;
+margin: 0 auto 0;
+}
+footer, .push {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    background-color:#820035;
+    color: #fff;
+    text-align: center;
+    font-size:1.5em;
+    width: 100%;
+}
