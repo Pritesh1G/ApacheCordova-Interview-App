@@ -5,6 +5,7 @@ This project is an Android application built using NodeJS and Bootstrap 3, wrapp
 
 ## Features
 - **Cross-Platform Compatibility**: Runs on Android, with potential to extend to other platforms.
+- **OAuth Authentication**: OAuth Authentication Included, Google, Facebook, Google Play, Email Login added
 - **Modern Web Technologies**: Utilizes NodeJS and Bootstrap 3 for a responsive and interactive user interface.
 - **Cordova Integration**: Leverages Cordova's APIs for native device features.
 
